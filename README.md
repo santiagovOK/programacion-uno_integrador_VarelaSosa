@@ -20,7 +20,7 @@ El objetivo principal del trabajo es desarrollar un programa en Python que, medi
 
 - [Programa Completo en un solo .py](./programacion-uno_integrador.py) 
 - [Programa Modularizado](./src/main.py) 
-- [Informe General (PDF)](./programacion-uno_integrador__informe_VarelaSosa.pdf)
+- [Informe General (PDF)](./informe_general/programacion-uno_integrador_informe_VarelaSosa.pdf)
 
 ---
 
